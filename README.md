@@ -64,3 +64,9 @@ In the project directory, you can run:
 - `npm run build` - Builds the app for production using TypeScript and Vite.
 - `npm run lint` - Runs ESLint to check for code issues.
 - `npm run preview` - Boots up a local static web server that serves the files from `dist` to preview the production build.
+
+<img width="1902" height="964" alt="image" src="https://github.com/user-attachments/assets/a76f1533-3b56-4f54-a8a3-18cf6a395479" />
+<img width="1910" height="970" alt="image" src="https://github.com/user-attachments/assets/70960192-872c-4f37-b068-16982e37ffd5" />
+
+
+
