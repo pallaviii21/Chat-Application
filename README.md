@@ -68,5 +68,5 @@ In the project directory, you can run:
 <img width="1902" height="964" alt="image" src="https://github.com/user-attachments/assets/a76f1533-3b56-4f54-a8a3-18cf6a395479" />
 <img width="1910" height="970" alt="image" src="https://github.com/user-attachments/assets/70960192-872c-4f37-b068-16982e37ffd5" />
 
-
+**Built with ❤️**
 
